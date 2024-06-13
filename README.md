@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+- 👋 I’m Sonali Srivastava
+- 👀 I live and breathe LINUX. (Been 10+ years now)
+- 🔭 I contributed to systemd open source project.
+- 🌱 I’m currently learning Kubernetes and everything around it.
+- 💞️ I’m looking to collaborate on talks around DevRel, Kubernetes, Cloud native, DevOps.
+- 💬 Ask me about being an Outreachy Intern which changed my life for good.
+- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/sonali-srivastava-530782ab/) and @sonali_talks on Twitter
 <!--
 **cerebro1/cerebro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
